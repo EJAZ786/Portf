@@ -85,7 +85,7 @@
     <section class="projects" id="projects">
       <div class="project">
         <h3>Project 1</h3>
-        <p>L.</p>
+        <p>I built social environement related issues in android.</p>
       </div>
       <div class="project">
         <h3>Project 2</h3>
